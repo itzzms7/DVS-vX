@@ -1,0 +1,7 @@
+{
+  "name": "Decentralized Voting System (DVS)",
+  "description": "Civic election platform with on-chain ballot verification, voter eligibility controls, and lifecycle management.",
+  "version": "6.0.3",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
